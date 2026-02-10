@@ -1,5 +1,5 @@
-- Vy Nguyen Bao - based in Vietnam
-- currently studying Economics at Foreign Trade University
+- Vy Nguyen Bao
+- Foreign Trade University, based in Vietnam
 - contact: k63.2414110320@ftu.edu.vn
 
 
